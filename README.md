@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hammam+Ghina+Nur+Fauzi!;" />
 </h1> -->
 
-<h3 align="center">Hi There 🇮🇩</h3>
+<h3 align="center">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
+ <hr/>
 
 <br/>
 
