@@ -5,7 +5,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
     <a href="mailto:hammamgonjil@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
@@ -17,21 +17,12 @@
     </a>
 </div>
 
- <hr/>
 
-<hr/>
- 
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=laravel,php,html,css,tailwind,bootstrap,js,git,github,vscode,mysql,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,react,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,php,bootstrap,js,git,mysql,python,react" />
 </div>
 
-<br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
