@@ -21,12 +21,15 @@
     </a>
 </div>
 
+
+<img align="right" height="120" src="https://camo.githubusercontent.com/9c01cb7……64732f3…" data-canonical-src="https://brian.carnell.com/wp-content/uploads/2019/12/spiderman-animated-gif.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
 <br> <br>
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <img width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-GNF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 <br/>
