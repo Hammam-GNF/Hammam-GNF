@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋! I'm Hammam Ghina Nur Fauzi</h2>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=laravel,php,bootstrap,js,git,mysql,python,react" width="250" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,git,mysql,python,react,slim" width="250" />
 </div>
 
 <br/>
