@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a Laravel project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Framework Js**
 
 💬 Ask me about **Laravel, Node.js, Web Development... or anything [here](https://github.com/Hammam-GNF/Hammam-GNF/issues)**
 
-⚡ Fun fact **I enjoy reading manhwa/webtoons in my free time**
+⚡ Fun fact **I enjoy reading a book in my free time**
 
 </div>
  
@@ -38,30 +38,21 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,php,html,css,tailwind,bootstrap,js,git,github,vscode,mysql,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,mongodb,figma,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,figma" /><br>
 </div>
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hammam-GNF/Hammam-GNF/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Hammam-GNF&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-GNF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br/>
 
 <br/><br/>
 
@@ -70,7 +61,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/YOUR_KOFI_ID' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/hammamgnf' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
