@@ -1,7 +1,5 @@
-<h3 align="left">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
- <hr/>
-
-<br/>
+<h2 align="left">Hi👋 I'm Hammam Ghina Nur Fauzi</h2>
+<hr style="border: 1px solid #ccc;"/>
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=laravel,php,bootstrap,js,git,mysql,python,react" />
