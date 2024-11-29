@@ -1,4 +1,4 @@
-<h3 align="left" class="markdown-heading">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
+<h3 align="left">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
  <hr/>
 
 <br/>
@@ -19,15 +19,16 @@
     <a href="https://Hammam-GNF.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
+    <a href="https://www.instagram.com/hageenef" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 </div>
 
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <br/>
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-GNF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-GNF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 
