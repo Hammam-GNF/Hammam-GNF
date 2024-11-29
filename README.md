@@ -22,7 +22,7 @@
 </div>
 
 
-<img align="right" height="120" src="https://camo.githubusercontent.com/9c01cb7……64732f3…" data-canonical-src="https://brian.carnell.com/wp-content/uploads/2019/12/spiderman-animated-gif.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" height="120" src="meong.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <br> <br>
