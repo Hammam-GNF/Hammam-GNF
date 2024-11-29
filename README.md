@@ -1,6 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hammam-GNF.Hammam-GNF)
-
-<h3 align="left">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
+<h3 align="left" class="markdown-heading">Hi👋 I'm Hammam Ghina Nur Fauzi</h3>
  <hr/>
 
 <br/>
