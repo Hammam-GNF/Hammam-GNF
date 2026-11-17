@@ -60,11 +60,11 @@
 
 <h3 align="left">GitHub Stats & Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hammam-GNF&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img src="https://github-readme-stats.cyclic.app/api/top-langs?username=Hammam-GNF&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-stats.cyclic.app/api?username=Hammam-GNF&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
 </p>
 
 <p align="center">
