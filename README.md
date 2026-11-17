@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3" alt="hammam-gnf" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3](https://github-profile-trophy-zeta.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3)" alt="hammam-gnf" />
   </a>
 </p>
 
