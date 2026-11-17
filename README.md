@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hammam GNF</h1>
 <h3 align="center">Fullstack Web Developer building clean, robust, and scalable web applications.</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Hammam-GNF&label=Profile%20views&color=0e75b6&style=flat" alt="hammam-gnf" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3" alt="hammam-gnf" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3&margin-w=5" alt="hammam-gnf" />
   </a> 
 </p>
 
@@ -52,7 +52,7 @@
   <!-- Tools & Workflow -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.id/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </p>
 
@@ -60,13 +60,13 @@
 
 <h3 align="left">GitHub Stats & Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hammam-GNF&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-GNF&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammam-GNF&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammam-GNF&theme=tokyonight&hide_border=true" alt="github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammam-GNF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
