@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Hammam-GNF&label=Profile%20views&color=0e75b6&style=flat" alt="hammam-gnf" /> 
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Hammam-GNF&theme=tokyonight&no-frame=true&row=1&column=3" alt="hammam-gnf" />
-  </a> 
+  </a>
 </p>
 
 - 🌐 Check out my portfolio: [https://bit.ly/portfolio-hammamgnf](https://bit.ly/portfolio-hammamgnf)
