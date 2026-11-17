@@ -60,11 +60,7 @@
 
 <h3 align="left">GitHub Stats & Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.cyclic.app/api/top-langs?username=Hammam-GNF&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.cyclic.app/api?username=Hammam-GNF&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hammam-GNF&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
 <p align="center">
